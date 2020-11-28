@@ -8,6 +8,7 @@
         <module>find-user</module>
         <module>find-eureka</module>
         <module>find-gateway</module>
+        <module>find-commin</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
